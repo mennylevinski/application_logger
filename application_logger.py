@@ -12,6 +12,7 @@ import tkinter as tk
 from datetime import datetime
 import traceback
 
+#--- Application GUI ---
 class AutoLoggerApp:
     def __init__(self, root):
         self.root = root
