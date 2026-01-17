@@ -1,6 +1,6 @@
 # Application Logger
 
-## Exmple Module
+## Example Module
 - Logs terminal output, console typing, paste events, and uncaught exceptions
 - Automatically ready-to-type GUI console with pause/resume and save functionality
 
