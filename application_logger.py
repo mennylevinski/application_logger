@@ -3,7 +3,7 @@
 """
 Author: Menny Levinski
 
-Exmple module for application logging.
+Example module for application logging.
 """
 
 import io
