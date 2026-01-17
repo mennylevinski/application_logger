@@ -1,6 +1,6 @@
-# Python Application Logger
+# Application Logger
 
-## Exmple module
+## Exmple Module
 - Logs terminal output, console typing, paste events, and uncaught exceptions
 - Automatically ready-to-type GUI console with pause/resume and save functionality
 
