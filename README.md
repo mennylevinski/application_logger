@@ -5,5 +5,9 @@ This is only an exmple code, not a real program. It demonstrates a full audit wo
 - Logs terminal output, console typing, paste events, and uncaught exceptions
 - Automatically ready to go GUI console with live workflow and logigng functionality
 
-## Requirements
-- Python **3.0+**
+## Installation
+- Requires **Python 3.0** or higher  
+- Compatible with **Windows**  
+- Download the script and run it using Python:
+  ```bash
+  python workflow_logger_example.py
