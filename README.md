@@ -1,4 +1,5 @@
 # Application Logger
+This is only an exmple code, not a real program. It demonstrates a full audit workflow with console progress animation and logging.
 
 ## Example Module
 - Logs terminal output, console typing, paste events, and uncaught exceptions
