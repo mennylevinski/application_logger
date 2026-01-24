@@ -1,9 +1,9 @@
 """
 Author: Menny Levinski
 
-This is only an exmple code, not a real program!
+This is only a demo program, not a real app.
 
-Demonstrates a full audit workflow with console progress animation and logging.
+It demonstrates a full audit workflow with console progress animation and logging.
 """
 
 import io
