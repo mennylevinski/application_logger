@@ -1,6 +1,8 @@
-# MIT License – Copyright (c) 2025 Menny Levinski
+# -*- coding: utf-8 -*-
 
 """
+Author: Menny Levinski
+
 This is only a demo program, not a real app.
 
 It demonstrates a full audit workflow with console progress animation and logging.
